@@ -53,7 +53,6 @@
             fprintf(stderr, "[%s] %s must equal to %s!\n", __test_name, STR(str2), STR(str1)); \
         } \
     }
-    }
 
 #define ASSERT_STR_NEQ(str1, str2) { \
         if ( strcmp((str1), (str2)) == 0 ) { \
