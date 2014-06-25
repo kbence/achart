@@ -1,4 +1,4 @@
 aChart
 ======
 
-Command line tool for generating ASCII charts.
+Command-line tool for generating ASCII charts.
